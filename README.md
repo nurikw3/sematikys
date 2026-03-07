@@ -1,3 +1,5 @@
+![prev]()
+
 # Semantic Segmentation — Hair , Skin & Background
 
 Segmentation of hair and skin regions in portrait photos. Three classes: background, hair, skin.
