@@ -1,0 +1,22 @@
+[project]
+name = "semantic-segmentation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.10"
+dependencies = [
+    "albumentations>=2.0.8",
+    "matplotlib>=3.10.8",
+    "notebook>=7.5.4",
+    "numpy>=2.2.6",
+    "onnx>=1.20.1",
+    "onnxruntime>=1.23.2",
+    "onnxscript>=0.6.2",
+    "opencv-python>=4.13.0.92",
+    "pandas>=2.3.3",
+    "pillow>=12.1.1",
+    "segmentation-models-pytorch>=0.5.0",
+    "streamlit>=1.55.0",
+    "torch>=2.10.0",
+    "tqdm>=4.67.3",
+]
