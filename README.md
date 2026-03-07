@@ -1,4 +1,4 @@
-![prev]()
+![prev](assets/preview.jpg)
 
 # Semantic Segmentation — Hair , Skin & Background
 
