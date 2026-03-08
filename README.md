@@ -4,7 +4,7 @@
 
 Segmentation of hair and skin regions in portrait photos. Three classes: background, hair, skin.
 
-The model is trained with PyTorch, exported to ONNX, and served via a Streamlit web app with real-time HSV color adjustment per segment.
+The model is trained with PyTorch (iou_score - 0.9179, fscore - 0.956), exported to ONNX, and served via a Streamlit web app with real-time HSV color adjustment per segment.
 
 ---
 
